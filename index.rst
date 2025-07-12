@@ -10,7 +10,7 @@ How to Activate Your Device on Xfinity: A Step-by-Step Guide
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: activate.png
    :width: 350px
    :align: center
    :height: 100px
